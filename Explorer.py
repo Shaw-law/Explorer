@@ -1,3 +1,4 @@
+# This project is not original
 import sys
 
 from PyQt5.QtWidgets import QApplication, QWidget, QTreeView, QFileSystemModel, QVBoxLayout
